@@ -77,7 +77,7 @@ Lista:
 1. Michalski, Mateusz
 1. Miszczykowski, Mariusz
 1. Olszer, Krzysztof. [Anagramy i wikipedia](https://bitbucket.org/kolszer/mapreduce/overview)
-1. Pająkowski, Adrian. [Zadanie 3](https://github.com/apajakowski/zad3)
+1. Pająkowski, Adrian. [MapReduce - Anagramy i Wikipedia](https://github.com/apajakowski/zad3)
 1. Paprocki, Adam. [Zadanie 3](https://github.com/paprot/zad3nosql)
 1. Pastuszka, Anna. [Wyszukiwanie anagramów](https://github.com/apastuszka/Zadanie3)
 1. Perkowski, Maciej
