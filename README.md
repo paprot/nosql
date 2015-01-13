@@ -82,7 +82,7 @@ Lista:
 1. Pastuszka, Anna. [Wyszukiwanie anagramów](https://github.com/apastuszka/Zadanie3)
 1. Perkowski, Maciej
 1. Rawicki, Wojciech
-1. Szykuła, Artur
+1. Szykuła, Artur - [MonogoDB i MMS - przykładowe funkcje MapReduce](https://github.com/aszykula/Neo4j/tree/master/zadanie3) 
 1. Turzyński, Michał
 1. Wardzińska, Justyna
 1. Wasilewski, Tomasz
