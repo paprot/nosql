@@ -77,3 +77,5 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. Miszczykowski, Mariusz
 1. Rawicki, Wojciech
 1. Zielke, Adam
+   - [Zadanie 1](https://github.com/AdamZielke/zadanie1)
+ 
