@@ -67,6 +67,7 @@ Lista:
 1. Ćwikowski, Grzegorz
 1. Denejko, Wojciech. [Zadanie 3](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. Duchna, Przemysław
+1. Dunikowski, Jacek. [Zadanie 3](https://github.com/jaca22/zad3)
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa
