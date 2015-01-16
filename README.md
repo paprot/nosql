@@ -84,7 +84,7 @@ Lista:
 1. Rawicki, Wojciech
 1. Szykuła, Artur - [MonogoDB i MMS - przykładowe funkcje MapReduce](https://github.com/aszykula/Neo4j/tree/master/zadanie3) 
 1. Turzyński, Michał
-1. Wardzińska, Justyna
+1. Wardzińska, Justyna[Elasticsearch, Logstash, Kibana - mój mały Resident Evil](https://github.com/wardzinskaj/noSqlExam)
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
 1. Zduniak, Daniel. [Zadanie 3](https://github.com/dzduniak/NoSQL3)
