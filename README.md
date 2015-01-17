@@ -88,7 +88,7 @@ Lista:
 1. Wardzińska, Justyna[Elasticsearch, Logstash, Kibana - mój mały Resident Evil](https://github.com/wardzinskaj/noSqlExam)
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
-1. Zduniak, Daniel. [Zadanie 3](https://github.com/dzduniak/NoSQL3)
+1. Zduniak, Daniel. [Anagramy i Wikipedia - MapReduce](https://github.com/dzduniak/NoSQL3)
 1. Zielke, Adam
 
 
