@@ -65,7 +65,7 @@ Lista:
 
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
 1. Ćwikowski, Grzegorz
-1. Denejko, Wojciech. [Zadanie 3](https://bitbucket.org/wdenejko/zadanie3/overview)
+1. Denejko, Wojciech. [Anagramy+Getglue_IMDB+MMS+MapReduce](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. Duchna, Przemysław
 1. Dunikowski, Jacek. [Zadanie 3](https://github.com/jaca22/zad3)
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
