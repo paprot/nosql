@@ -64,31 +64,35 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 Lista:
 
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
-1. Ćwikowski, Grzegorz
 1. Denejko, Wojciech. [Anagramy+Getglue_IMDB+MMS+MapReduce](https://bitbucket.org/wdenejko/zadanie3/overview)
-1. Duchna, Przemysław
 1. Dunikowski, Jacek. [Zadanie 3](https://github.com/jaca22/zad3)
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa [Zadanie 3 - MapReduce Anagramy](https://github.com/Estee/NoSQL/blob/master/Zadanie3.md)
-1. Hinz, Karol
 1. Kalarus, Marcin. [Anagramy i Wikipedia - MapReduce](https://github.com/mkalarus/Anagramy_i_wikipedia)
 1. Massalska, Emilia. [Zadanie 3](https://github.com/emassalska/mapreduce)
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz [Zadanie 3](https://github.com/matismatis93/MapReduce)
-1. Miszczykowski, Mariusz
 1. Olszer, Krzysztof. [Anagramy i wikipedia](https://bitbucket.org/kolszer/mapreduce/overview)
 1. Pająkowski, Adrian. [MapReduce - Anagramy i Wikipedia](https://github.com/apajakowski/zad3)
 1. Paprocki, Adam. [Zadanie 3](https://github.com/paprot/zad3nosql)
 1. Pastuszka, Anna. [Wyszukiwanie anagramów](https://github.com/apastuszka/Zadanie3)
 1. Perkowski, Maciej. [Zadanie 3 RedMap](https://github.com/mperkowski/MapReduce)
-1. Rawicki, Wojciech
 1. Szykuła, Artur - [MonogoDB i MMS - przykładowe funkcje MapReduce](https://github.com/aszykula/Neo4j/tree/master/zadanie3)
 1. Turzyński, Michał. [Anagramy i Wikipedia 1000 rekordów](https://bitbucket.org/michal-at-bb/mongo_zadania/src/cba7322f2a154d4c1083c9e247b64eb66a09d72c/zadanie3.md?at=master)
 1. Wardzińska, Justyna. [Elasticsearch, Logstash, Kibana - mój mały Resident Evil](https://github.com/wardzinskaj/noSqlExam)
+1. Zduniak, Daniel. [Anagramy i Wikipedia - MapReduce](https://github.com/dzduniak/NoSQL3)
+
+
+## NZAL
+
+1. Ćwikowski, Grzegorz
+1. Duchna, Przemysław
+1. Hinz, Karol
+1. Miszczykowski, Mariusz
+1. Rawicki, Wojciech
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
-1. Zduniak, Daniel. [Anagramy i Wikipedia - MapReduce](https://github.com/dzduniak/NoSQL3)
 1. Zielke, Adam
 
 
