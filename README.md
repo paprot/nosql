@@ -80,7 +80,7 @@ Lista:
 1. Pająkowski, Adrian. [MapReduce - Anagramy i Wikipedia](https://github.com/apajakowski/zad3)
 1. Paprocki, Adam. [Zadanie 3](https://github.com/paprot/zad3nosql)
 1. Pastuszka, Anna. [Wyszukiwanie anagramów](https://github.com/apastuszka/Zadanie3)
-1. Perkowski, Maciej
+1. Perkowski, Maciej. [Zadanie 3 RedMap](https://github.com/mperkowski/MapReduce)
 1. Rawicki, Wojciech
 1. Szykuła, Artur - [MonogoDB i MMS - przykładowe funkcje MapReduce](https://github.com/aszykula/Neo4j/tree/master/zadanie3) 
 1. Turzyński, Michał
