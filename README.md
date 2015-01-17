@@ -71,7 +71,7 @@ Lista:
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa
 1. Hinz, Karol
-1. Kalarus, Marcin
+1. Kalarus, Marcin. [anagramy i wikipedia - MapReduce](https://github.com/mkalarus/Anagramy_i_wikipedia)
 1. Massalska, Emilia
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz
