@@ -45,6 +45,9 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
+1. Gonera, Ewa
+   - [Zadanie 1](https://github.com/Estee/NoSQL/blob/master/Zadanie1.md),
+   - [Zadanie 2](https://github.com/Estee/NoSQL/blob/master/Zadanie2.md).
 1. Hinz, Karol
    - [Zadanie 1 i 2?](https://github.com/khinz/MongoDB)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
@@ -74,12 +77,8 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. Ćwikowski, Grzegorz
 1. Duchna, Przemysław
    - [Zadanie 1](https://github.com/pduchna/Cwiczenia)
-1. Gonera, Ewa
-   [Zadanie 1](https://github.com/Estee/NoSQL/blob/master/Zadanie1.md),
-   [Zadanie 2](https://github.com/Estee/NoSQL/blob/master/Zadanie2.md).
 1. Mazur, Michał
 1. Miszczykowski, Mariusz
 1. Rawicki, Wojciech
 1. Zielke, Adam
    - [Zadanie 1](https://github.com/AdamZielke/zadanie1)
- 
