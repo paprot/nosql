@@ -69,7 +69,7 @@ Lista:
 1. Duchna, Przemysław
 1. Franckiewicz, Tomasz. [MongoDB+MMS+Dummy_json](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
-1. Gonera, Ewa
+1. Gonera, Ewa [Zadanie 3 - MapReduce Anagramy](https://github.com/Estee/NoSQL/blob/master/Zadanie3.md)
 1. Hinz, Karol
 1. Kalarus, Marcin
 1. Massalska, Emilia
