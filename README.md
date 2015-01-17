@@ -75,7 +75,7 @@ Lista:
 1. Kalarus, Marcin. [anagramy i wikipedia - MapReduce](https://github.com/mkalarus/Anagramy_i_wikipedia)
 1. Massalska, Emilia
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
-1. Michalski, Mateusz
+1. Michalski, Mateusz [Zadanie 3](https://github.com/matismatis93/MapReduce)
 1. Miszczykowski, Mariusz
 1. Olszer, Krzysztof. [Anagramy i wikipedia](https://bitbucket.org/kolszer/mapreduce/overview)
 1. Pająkowski, Adrian. [MapReduce - Anagramy i Wikipedia](https://github.com/apajakowski/zad3)
